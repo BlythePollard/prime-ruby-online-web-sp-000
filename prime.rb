@@ -1,1 +1,3 @@
-# Add  code here!
+def prime?(value)
+  Prime.prime?(value)
+end
